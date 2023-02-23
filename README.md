@@ -261,3 +261,7 @@ Since Div1 is the one who created this file they will get the blame :P
 - Div1 deploys the "index.html" by going to (settings -> pages) then choose master as deployment branch
 - Div2 verifies the url found in (settings -> pages) after a successful deployment.
 - Div1 unpublishes the site since they found some issues they need to fix. (settings -> pages -> burger icon -> unpublish)
+
+
+### Archive the Repo
+- Div1 archive the repo. (settings -> scroll down to the end of the page -> Archive this repository)
